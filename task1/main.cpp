@@ -1,5 +1,5 @@
 #include <iostream>
-#include "arithmetics.h"
+#include "arithmetics.cpp"
 
 void printError(int s, int m){
     std::cout << "Unexpected error:\nsum is: " << s << "\nmul is: " << m << '\n';
